@@ -23,4 +23,4 @@ data. This manual provides instruction for the DrJava an Eclipse.
 
 1. Open the text file input.txt.
 2. Input the values in the text editor and save. Please view Section 4 of this User Manual. The constraints for the inputs will be explained below. There are three choices that can be made by the user in order to choose the packing material of the absorption column. The layout for the text editor should mimic the following image.
-   ![Input Image](C:/Users/ajimp/Documents/GitHub/Simulation-Environment-of-a-Gas-Absorber-System/Images/Input-image.PNG "Input Image")
+   ![Input Image](/Images/Input-image.PNG "Input Image")
