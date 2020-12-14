@@ -1,0 +1,35 @@
+packingMaterialChoice = 0.0
+
+l_2 = 40.00
+v_1 = 15.00
+y_A1 = 0.12
+x_A2 = 0.00
+recoveryPercentage = 92.00
+
+equilibriumPolynomialCoefficient5 = 0.0000
+equilibriumPolynomialCoefficient4 = 0.0000
+equilibriumPolynomialCoefficient3 = 0.000
+equilibriumPolynomialCoefficient2 = 1.9762
+equilibriumPolynomialCoefficient1 = 0.0812
+equilibriumPolynomialCoefficient0 = 0.00
+
+mw_A = 44.05
+mw_L = 18.02
+mw_V = 28.05
+
+d_ABV = 1.35e-05
+u_V = 9.85e-06
+p_V = 1.261
+
+d_ABL = 1.24e-09
+u_L = 8.90e-04
+p_L = 997.000
+
+		
+root_Finder_X_L = 0.0
+root_Finder_X_U = 0.118
+root_Finder_Tolerance = 1.00E-06
+root_Finder_Maximum_Iterations = 1000.0
+numerical_Integration_Number_Of_Steps = 1000.0
+optimizer_Number_Of_Steps_Liquid_Flow_Rate = 100.0
+optimizer_Minimum_Liquid_Flow_Rate = 0
